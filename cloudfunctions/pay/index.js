@@ -1,6 +1,6 @@
 const config = {
       appid: 'xxxxxxx', //服务商公众号Appid
-      envName: 'zf-shcud', // 小程序云开发环境ID
+      envName: 'mini-cloud-learn-5fkjno5e998fc55', // 小程序云开发环境ID
       mchid: 'xxxxxxxx', //商户号
       partnerKey: 'xxxxxxxxxxxxx', //此处填服务商密钥
       notify_url: 'https://mp.weixin.qq.com', //这个不要管

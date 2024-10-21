@@ -7,7 +7,7 @@ let config = {
             pass: 'xxxxxxxxxx' //邮箱的授权码
       }
 };
-const xcxname = '重庆大学二手书'; //你的小程序名称
+const xcxname = '矿业大学二手书'; //你的小程序名称
 
 /*
 下

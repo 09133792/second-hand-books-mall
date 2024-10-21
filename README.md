@@ -6,7 +6,7 @@
 #### [https://mp.weixin.qq.com/s/e93APJGBrqbGNBiLuqKaxQ](https://mp.weixin.qq.com/s/e93APJGBrqbGNBiLuqKaxQ "https://mp.weixin.qq.com/s/e93APJGBrqbGNBiLuqKaxQ")
 
 #### 目前新版程序已经上线，可先预览：
-![小程序【重庆大学二手书】](http://cqu.oss-cn-shenzhen.aliyuncs.com/img/book/pyq.png "小程序【重庆大学二手书】")
+![小程序【矿业大学二手书】](http://cqu.oss-cn-shenzhen.aliyuncs.com/img/book/pyq.png "小程序【矿业大学二手书】")
 
 长话短说，下面直接说配置流程
 

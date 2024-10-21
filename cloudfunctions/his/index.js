@@ -1,4 +1,4 @@
-const envid = 'zf-shcud'; //云开发环境id
+const envid = 'mini-cloud-learn-5fkjno5e998fc55'; //云开发环境id
 
 /*
 下

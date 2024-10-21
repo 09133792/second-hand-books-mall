@@ -2,7 +2,7 @@
 const cloud = require('wx-server-sdk')
 const appid = 'wxxxxxxxxxxxxxx'; //你的小程序appid
 const secret = 'xxxxxxxxxxxxxxxxxxxxxx'; //你的小程序secret
-const envName = 'zf-shcud'; // 小程序云开发环境ID
+const envName = 'mini-cloud-learn-5fkjno5e998fc55'; // 小程序云开发环境ID
 cloud.init({
       env: envName
 })
